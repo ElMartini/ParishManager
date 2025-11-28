@@ -1,0 +1,6 @@
+@ParishManager_HostAddress = http://localhost:5285
+
+GET {{ParishManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
