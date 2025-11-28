@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParishManager", "ParishManager\ParishManager.csproj", "{C4392A9F-2AED-4973-92A0-52E09B1363F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{912076E4-E9DC-4646-846B-2B6A74662502}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C4392A9F-2AED-4973-92A0-52E09B1363F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4392A9F-2AED-4973-92A0-52E09B1363F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4392A9F-2AED-4973-92A0-52E09B1363F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912076E4-E9DC-4646-846B-2B6A74662502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912076E4-E9DC-4646-846B-2B6A74662502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912076E4-E9DC-4646-846B-2B6A74662502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912076E4-E9DC-4646-846B-2B6A74662502}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
